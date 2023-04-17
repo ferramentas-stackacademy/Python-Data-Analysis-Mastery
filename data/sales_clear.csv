@@ -1,0 +1,6 @@
+Start_Date,Customer Number,Customer Name,2016,2017,Percent Growth,Jan Units,Active
+2015-01-10,10002,Quest Industries,125000.0,162500.0,0.3,500.0,True
+2014-06-15,552278,Smith Plumbing,920000.0,1012000.0,0.1,700.0,True
+2016-03-29,23477,ACME Industrial,50000.0,62500.0,0.25,125.0,True
+2015-10-27,24900,Brekke LTD,350000.0,490000.0,0.04,75.0,True
+2014-02-02,651029,Harbor Co,15000.0,12750.0,-0.15,,False
