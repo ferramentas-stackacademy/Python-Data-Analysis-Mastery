@@ -25,5 +25,6 @@
 - Aula 04 (02/05/2023) - Desenvolvendo um Projeto de Ciência de Dados II
 
 
-#### [Canal de Comunicação]
+#### [Dúvidas]
+- Canal do Discord ou Slack marcando nickssonfreitas
 - Linkedin (https://www.linkedin.com/in/nickssonfreitas/)
